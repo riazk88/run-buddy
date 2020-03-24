@@ -12,3 +12,5 @@ https://riazk88.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kiran Riaz
+
+### :black_circle:2019 Run Buddy, Inc
