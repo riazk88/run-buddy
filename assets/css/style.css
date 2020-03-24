@@ -18,6 +18,7 @@ header h1 a {
     font-size: 36px;
     color: #fce138;
     margin: 0;
+    display: inline;
 }
 header a {
     text-decoration: none;
