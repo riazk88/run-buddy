@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://riazk88.github.io/run-buddy/
 
 ## Contribution
-Made with &heart by Kiran Riaz
+Made with ❤️ by Kiran Riaz
