@@ -1,5 +1,7 @@
 # Run Buddy
 
+![Alt text](/readmeSS.png?raw=true)
+
 ## Purpose
 A website that offers fitness training services.
 
